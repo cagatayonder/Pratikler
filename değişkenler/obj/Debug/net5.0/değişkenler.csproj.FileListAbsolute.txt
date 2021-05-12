@@ -1,0 +1,16 @@
+C:\Users\cagatay\Desktop\Pratikler\değişkenler\bin\Debug\net5.0\değişkenler.exe
+C:\Users\cagatay\Desktop\Pratikler\değişkenler\bin\Debug\net5.0\değişkenler.deps.json
+C:\Users\cagatay\Desktop\Pratikler\değişkenler\bin\Debug\net5.0\değişkenler.runtimeconfig.json
+C:\Users\cagatay\Desktop\Pratikler\değişkenler\bin\Debug\net5.0\değişkenler.runtimeconfig.dev.json
+C:\Users\cagatay\Desktop\Pratikler\değişkenler\bin\Debug\net5.0\değişkenler.dll
+C:\Users\cagatay\Desktop\Pratikler\değişkenler\bin\Debug\net5.0\ref\değişkenler.dll
+C:\Users\cagatay\Desktop\Pratikler\değişkenler\bin\Debug\net5.0\değişkenler.pdb
+C:\Users\cagatay\Desktop\Pratikler\değişkenler\obj\Debug\net5.0\değişkenler.csprojAssemblyReference.cache
+C:\Users\cagatay\Desktop\Pratikler\değişkenler\obj\Debug\net5.0\değişkenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cagatay\Desktop\Pratikler\değişkenler\obj\Debug\net5.0\değişkenler.AssemblyInfoInputs.cache
+C:\Users\cagatay\Desktop\Pratikler\değişkenler\obj\Debug\net5.0\değişkenler.AssemblyInfo.cs
+C:\Users\cagatay\Desktop\Pratikler\değişkenler\obj\Debug\net5.0\değişkenler.csproj.CoreCompileInputs.cache
+C:\Users\cagatay\Desktop\Pratikler\değişkenler\obj\Debug\net5.0\değişkenler.dll
+C:\Users\cagatay\Desktop\Pratikler\değişkenler\obj\Debug\net5.0\ref\değişkenler.dll
+C:\Users\cagatay\Desktop\Pratikler\değişkenler\obj\Debug\net5.0\değişkenler.pdb
+C:\Users\cagatay\Desktop\Pratikler\değişkenler\obj\Debug\net5.0\değişkenler.genruntimeconfig.cache
