@@ -1,0 +1,16 @@
+C:\Users\cagatay\Desktop\Pratikler\while-foreach\bin\Debug\net5.0\while-foreach.exe
+C:\Users\cagatay\Desktop\Pratikler\while-foreach\bin\Debug\net5.0\while-foreach.deps.json
+C:\Users\cagatay\Desktop\Pratikler\while-foreach\bin\Debug\net5.0\while-foreach.runtimeconfig.json
+C:\Users\cagatay\Desktop\Pratikler\while-foreach\bin\Debug\net5.0\while-foreach.runtimeconfig.dev.json
+C:\Users\cagatay\Desktop\Pratikler\while-foreach\bin\Debug\net5.0\while-foreach.dll
+C:\Users\cagatay\Desktop\Pratikler\while-foreach\bin\Debug\net5.0\ref\while-foreach.dll
+C:\Users\cagatay\Desktop\Pratikler\while-foreach\bin\Debug\net5.0\while-foreach.pdb
+C:\Users\cagatay\Desktop\Pratikler\while-foreach\obj\Debug\net5.0\while-foreach.csprojAssemblyReference.cache
+C:\Users\cagatay\Desktop\Pratikler\while-foreach\obj\Debug\net5.0\while-foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cagatay\Desktop\Pratikler\while-foreach\obj\Debug\net5.0\while-foreach.AssemblyInfoInputs.cache
+C:\Users\cagatay\Desktop\Pratikler\while-foreach\obj\Debug\net5.0\while-foreach.AssemblyInfo.cs
+C:\Users\cagatay\Desktop\Pratikler\while-foreach\obj\Debug\net5.0\while-foreach.csproj.CoreCompileInputs.cache
+C:\Users\cagatay\Desktop\Pratikler\while-foreach\obj\Debug\net5.0\while-foreach.dll
+C:\Users\cagatay\Desktop\Pratikler\while-foreach\obj\Debug\net5.0\ref\while-foreach.dll
+C:\Users\cagatay\Desktop\Pratikler\while-foreach\obj\Debug\net5.0\while-foreach.pdb
+C:\Users\cagatay\Desktop\Pratikler\while-foreach\obj\Debug\net5.0\while-foreach.genruntimeconfig.cache
