@@ -1,0 +1,16 @@
+C:\Users\cagatay\Desktop\Pratikler\ödev1\bin\Debug\net5.0\ödev1.exe
+C:\Users\cagatay\Desktop\Pratikler\ödev1\bin\Debug\net5.0\ödev1.deps.json
+C:\Users\cagatay\Desktop\Pratikler\ödev1\bin\Debug\net5.0\ödev1.runtimeconfig.json
+C:\Users\cagatay\Desktop\Pratikler\ödev1\bin\Debug\net5.0\ödev1.runtimeconfig.dev.json
+C:\Users\cagatay\Desktop\Pratikler\ödev1\bin\Debug\net5.0\ödev1.dll
+C:\Users\cagatay\Desktop\Pratikler\ödev1\bin\Debug\net5.0\ref\ödev1.dll
+C:\Users\cagatay\Desktop\Pratikler\ödev1\bin\Debug\net5.0\ödev1.pdb
+C:\Users\cagatay\Desktop\Pratikler\ödev1\obj\Debug\net5.0\ödev1.csprojAssemblyReference.cache
+C:\Users\cagatay\Desktop\Pratikler\ödev1\obj\Debug\net5.0\ödev1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cagatay\Desktop\Pratikler\ödev1\obj\Debug\net5.0\ödev1.AssemblyInfoInputs.cache
+C:\Users\cagatay\Desktop\Pratikler\ödev1\obj\Debug\net5.0\ödev1.AssemblyInfo.cs
+C:\Users\cagatay\Desktop\Pratikler\ödev1\obj\Debug\net5.0\ödev1.csproj.CoreCompileInputs.cache
+C:\Users\cagatay\Desktop\Pratikler\ödev1\obj\Debug\net5.0\ödev1.dll
+C:\Users\cagatay\Desktop\Pratikler\ödev1\obj\Debug\net5.0\ref\ödev1.dll
+C:\Users\cagatay\Desktop\Pratikler\ödev1\obj\Debug\net5.0\ödev1.pdb
+C:\Users\cagatay\Desktop\Pratikler\ödev1\obj\Debug\net5.0\ödev1.genruntimeconfig.cache
