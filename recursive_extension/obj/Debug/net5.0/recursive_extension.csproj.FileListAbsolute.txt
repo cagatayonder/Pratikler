@@ -1,0 +1,16 @@
+C:\Users\cagatay\Desktop\Pratikler\recursive_extension\bin\Debug\net5.0\recursive_extension.exe
+C:\Users\cagatay\Desktop\Pratikler\recursive_extension\bin\Debug\net5.0\recursive_extension.deps.json
+C:\Users\cagatay\Desktop\Pratikler\recursive_extension\bin\Debug\net5.0\recursive_extension.runtimeconfig.json
+C:\Users\cagatay\Desktop\Pratikler\recursive_extension\bin\Debug\net5.0\recursive_extension.runtimeconfig.dev.json
+C:\Users\cagatay\Desktop\Pratikler\recursive_extension\bin\Debug\net5.0\recursive_extension.dll
+C:\Users\cagatay\Desktop\Pratikler\recursive_extension\bin\Debug\net5.0\ref\recursive_extension.dll
+C:\Users\cagatay\Desktop\Pratikler\recursive_extension\bin\Debug\net5.0\recursive_extension.pdb
+C:\Users\cagatay\Desktop\Pratikler\recursive_extension\obj\Debug\net5.0\recursive_extension.csprojAssemblyReference.cache
+C:\Users\cagatay\Desktop\Pratikler\recursive_extension\obj\Debug\net5.0\recursive_extension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cagatay\Desktop\Pratikler\recursive_extension\obj\Debug\net5.0\recursive_extension.AssemblyInfoInputs.cache
+C:\Users\cagatay\Desktop\Pratikler\recursive_extension\obj\Debug\net5.0\recursive_extension.AssemblyInfo.cs
+C:\Users\cagatay\Desktop\Pratikler\recursive_extension\obj\Debug\net5.0\recursive_extension.csproj.CoreCompileInputs.cache
+C:\Users\cagatay\Desktop\Pratikler\recursive_extension\obj\Debug\net5.0\recursive_extension.dll
+C:\Users\cagatay\Desktop\Pratikler\recursive_extension\obj\Debug\net5.0\ref\recursive_extension.dll
+C:\Users\cagatay\Desktop\Pratikler\recursive_extension\obj\Debug\net5.0\recursive_extension.pdb
+C:\Users\cagatay\Desktop\Pratikler\recursive_extension\obj\Debug\net5.0\recursive_extension.genruntimeconfig.cache
