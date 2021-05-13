@@ -1,0 +1,16 @@
+C:\Users\cagatay\Desktop\Pratikler\if-elseif\bin\Debug\net5.0\if-elseif.exe
+C:\Users\cagatay\Desktop\Pratikler\if-elseif\bin\Debug\net5.0\if-elseif.deps.json
+C:\Users\cagatay\Desktop\Pratikler\if-elseif\bin\Debug\net5.0\if-elseif.runtimeconfig.json
+C:\Users\cagatay\Desktop\Pratikler\if-elseif\bin\Debug\net5.0\if-elseif.runtimeconfig.dev.json
+C:\Users\cagatay\Desktop\Pratikler\if-elseif\bin\Debug\net5.0\if-elseif.dll
+C:\Users\cagatay\Desktop\Pratikler\if-elseif\bin\Debug\net5.0\ref\if-elseif.dll
+C:\Users\cagatay\Desktop\Pratikler\if-elseif\bin\Debug\net5.0\if-elseif.pdb
+C:\Users\cagatay\Desktop\Pratikler\if-elseif\obj\Debug\net5.0\if-elseif.csprojAssemblyReference.cache
+C:\Users\cagatay\Desktop\Pratikler\if-elseif\obj\Debug\net5.0\if-elseif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cagatay\Desktop\Pratikler\if-elseif\obj\Debug\net5.0\if-elseif.AssemblyInfoInputs.cache
+C:\Users\cagatay\Desktop\Pratikler\if-elseif\obj\Debug\net5.0\if-elseif.AssemblyInfo.cs
+C:\Users\cagatay\Desktop\Pratikler\if-elseif\obj\Debug\net5.0\if-elseif.csproj.CoreCompileInputs.cache
+C:\Users\cagatay\Desktop\Pratikler\if-elseif\obj\Debug\net5.0\if-elseif.dll
+C:\Users\cagatay\Desktop\Pratikler\if-elseif\obj\Debug\net5.0\ref\if-elseif.dll
+C:\Users\cagatay\Desktop\Pratikler\if-elseif\obj\Debug\net5.0\if-elseif.pdb
+C:\Users\cagatay\Desktop\Pratikler\if-elseif\obj\Debug\net5.0\if-elseif.genruntimeconfig.cache
