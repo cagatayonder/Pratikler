@@ -1,0 +1,16 @@
+C:\Users\cagatay\Desktop\Pratikler\debug-watch\bin\Debug\net5.0\debug-watch.exe
+C:\Users\cagatay\Desktop\Pratikler\debug-watch\bin\Debug\net5.0\debug-watch.deps.json
+C:\Users\cagatay\Desktop\Pratikler\debug-watch\bin\Debug\net5.0\debug-watch.runtimeconfig.json
+C:\Users\cagatay\Desktop\Pratikler\debug-watch\bin\Debug\net5.0\debug-watch.runtimeconfig.dev.json
+C:\Users\cagatay\Desktop\Pratikler\debug-watch\bin\Debug\net5.0\debug-watch.dll
+C:\Users\cagatay\Desktop\Pratikler\debug-watch\bin\Debug\net5.0\ref\debug-watch.dll
+C:\Users\cagatay\Desktop\Pratikler\debug-watch\bin\Debug\net5.0\debug-watch.pdb
+C:\Users\cagatay\Desktop\Pratikler\debug-watch\obj\Debug\net5.0\debug-watch.csprojAssemblyReference.cache
+C:\Users\cagatay\Desktop\Pratikler\debug-watch\obj\Debug\net5.0\debug-watch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cagatay\Desktop\Pratikler\debug-watch\obj\Debug\net5.0\debug-watch.AssemblyInfoInputs.cache
+C:\Users\cagatay\Desktop\Pratikler\debug-watch\obj\Debug\net5.0\debug-watch.AssemblyInfo.cs
+C:\Users\cagatay\Desktop\Pratikler\debug-watch\obj\Debug\net5.0\debug-watch.csproj.CoreCompileInputs.cache
+C:\Users\cagatay\Desktop\Pratikler\debug-watch\obj\Debug\net5.0\debug-watch.dll
+C:\Users\cagatay\Desktop\Pratikler\debug-watch\obj\Debug\net5.0\ref\debug-watch.dll
+C:\Users\cagatay\Desktop\Pratikler\debug-watch\obj\Debug\net5.0\debug-watch.pdb
+C:\Users\cagatay\Desktop\Pratikler\debug-watch\obj\Debug\net5.0\debug-watch.genruntimeconfig.cache
