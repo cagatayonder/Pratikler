@@ -1,0 +1,16 @@
+C:\Users\cagatay\Desktop\Pratikler\Interfaces_\bin\Debug\net5.0\Interfaces_.exe
+C:\Users\cagatay\Desktop\Pratikler\Interfaces_\bin\Debug\net5.0\Interfaces_.deps.json
+C:\Users\cagatay\Desktop\Pratikler\Interfaces_\bin\Debug\net5.0\Interfaces_.runtimeconfig.json
+C:\Users\cagatay\Desktop\Pratikler\Interfaces_\bin\Debug\net5.0\Interfaces_.runtimeconfig.dev.json
+C:\Users\cagatay\Desktop\Pratikler\Interfaces_\bin\Debug\net5.0\Interfaces_.dll
+C:\Users\cagatay\Desktop\Pratikler\Interfaces_\bin\Debug\net5.0\ref\Interfaces_.dll
+C:\Users\cagatay\Desktop\Pratikler\Interfaces_\bin\Debug\net5.0\Interfaces_.pdb
+C:\Users\cagatay\Desktop\Pratikler\Interfaces_\obj\Debug\net5.0\Interfaces_.csprojAssemblyReference.cache
+C:\Users\cagatay\Desktop\Pratikler\Interfaces_\obj\Debug\net5.0\Interfaces_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cagatay\Desktop\Pratikler\Interfaces_\obj\Debug\net5.0\Interfaces_.AssemblyInfoInputs.cache
+C:\Users\cagatay\Desktop\Pratikler\Interfaces_\obj\Debug\net5.0\Interfaces_.AssemblyInfo.cs
+C:\Users\cagatay\Desktop\Pratikler\Interfaces_\obj\Debug\net5.0\Interfaces_.csproj.CoreCompileInputs.cache
+C:\Users\cagatay\Desktop\Pratikler\Interfaces_\obj\Debug\net5.0\Interfaces_.dll
+C:\Users\cagatay\Desktop\Pratikler\Interfaces_\obj\Debug\net5.0\ref\Interfaces_.dll
+C:\Users\cagatay\Desktop\Pratikler\Interfaces_\obj\Debug\net5.0\Interfaces_.pdb
+C:\Users\cagatay\Desktop\Pratikler\Interfaces_\obj\Debug\net5.0\Interfaces_.genruntimeconfig.cache
