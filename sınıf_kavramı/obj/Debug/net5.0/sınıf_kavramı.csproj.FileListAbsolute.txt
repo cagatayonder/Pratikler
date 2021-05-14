@@ -1,0 +1,16 @@
+C:\Users\cagatay\Desktop\Pratikler\sınıf_kavramı\bin\Debug\net5.0\sınıf_kavramı.exe
+C:\Users\cagatay\Desktop\Pratikler\sınıf_kavramı\bin\Debug\net5.0\sınıf_kavramı.deps.json
+C:\Users\cagatay\Desktop\Pratikler\sınıf_kavramı\bin\Debug\net5.0\sınıf_kavramı.runtimeconfig.json
+C:\Users\cagatay\Desktop\Pratikler\sınıf_kavramı\bin\Debug\net5.0\sınıf_kavramı.runtimeconfig.dev.json
+C:\Users\cagatay\Desktop\Pratikler\sınıf_kavramı\bin\Debug\net5.0\sınıf_kavramı.dll
+C:\Users\cagatay\Desktop\Pratikler\sınıf_kavramı\bin\Debug\net5.0\ref\sınıf_kavramı.dll
+C:\Users\cagatay\Desktop\Pratikler\sınıf_kavramı\bin\Debug\net5.0\sınıf_kavramı.pdb
+C:\Users\cagatay\Desktop\Pratikler\sınıf_kavramı\obj\Debug\net5.0\sınıf_kavramı.csprojAssemblyReference.cache
+C:\Users\cagatay\Desktop\Pratikler\sınıf_kavramı\obj\Debug\net5.0\sınıf_kavramı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cagatay\Desktop\Pratikler\sınıf_kavramı\obj\Debug\net5.0\sınıf_kavramı.AssemblyInfoInputs.cache
+C:\Users\cagatay\Desktop\Pratikler\sınıf_kavramı\obj\Debug\net5.0\sınıf_kavramı.AssemblyInfo.cs
+C:\Users\cagatay\Desktop\Pratikler\sınıf_kavramı\obj\Debug\net5.0\sınıf_kavramı.csproj.CoreCompileInputs.cache
+C:\Users\cagatay\Desktop\Pratikler\sınıf_kavramı\obj\Debug\net5.0\sınıf_kavramı.dll
+C:\Users\cagatay\Desktop\Pratikler\sınıf_kavramı\obj\Debug\net5.0\ref\sınıf_kavramı.dll
+C:\Users\cagatay\Desktop\Pratikler\sınıf_kavramı\obj\Debug\net5.0\sınıf_kavramı.pdb
+C:\Users\cagatay\Desktop\Pratikler\sınıf_kavramı\obj\Debug\net5.0\sınıf_kavramı.genruntimeconfig.cache
