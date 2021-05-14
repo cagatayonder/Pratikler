@@ -1,0 +1,16 @@
+C:\Users\cagatay\Desktop\Pratikler\struct_\obj\Debug\net5.0\struct_.csprojAssemblyReference.cache
+C:\Users\cagatay\Desktop\Pratikler\struct_\obj\Debug\net5.0\struct_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cagatay\Desktop\Pratikler\struct_\obj\Debug\net5.0\struct_.AssemblyInfoInputs.cache
+C:\Users\cagatay\Desktop\Pratikler\struct_\obj\Debug\net5.0\struct_.AssemblyInfo.cs
+C:\Users\cagatay\Desktop\Pratikler\struct_\obj\Debug\net5.0\struct_.csproj.CoreCompileInputs.cache
+C:\Users\cagatay\Desktop\Pratikler\struct_\bin\Debug\net5.0\struct_.exe
+C:\Users\cagatay\Desktop\Pratikler\struct_\bin\Debug\net5.0\struct_.deps.json
+C:\Users\cagatay\Desktop\Pratikler\struct_\bin\Debug\net5.0\struct_.runtimeconfig.json
+C:\Users\cagatay\Desktop\Pratikler\struct_\bin\Debug\net5.0\struct_.runtimeconfig.dev.json
+C:\Users\cagatay\Desktop\Pratikler\struct_\bin\Debug\net5.0\struct_.dll
+C:\Users\cagatay\Desktop\Pratikler\struct_\bin\Debug\net5.0\ref\struct_.dll
+C:\Users\cagatay\Desktop\Pratikler\struct_\bin\Debug\net5.0\struct_.pdb
+C:\Users\cagatay\Desktop\Pratikler\struct_\obj\Debug\net5.0\struct_.dll
+C:\Users\cagatay\Desktop\Pratikler\struct_\obj\Debug\net5.0\ref\struct_.dll
+C:\Users\cagatay\Desktop\Pratikler\struct_\obj\Debug\net5.0\struct_.pdb
+C:\Users\cagatay\Desktop\Pratikler\struct_\obj\Debug\net5.0\struct_.genruntimeconfig.cache
