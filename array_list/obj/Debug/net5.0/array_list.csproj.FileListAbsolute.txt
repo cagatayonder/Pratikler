@@ -1,0 +1,16 @@
+C:\Users\cagatay\Desktop\Pratikler\array_list\bin\Debug\net5.0\array_list.exe
+C:\Users\cagatay\Desktop\Pratikler\array_list\bin\Debug\net5.0\array_list.deps.json
+C:\Users\cagatay\Desktop\Pratikler\array_list\bin\Debug\net5.0\array_list.runtimeconfig.json
+C:\Users\cagatay\Desktop\Pratikler\array_list\bin\Debug\net5.0\array_list.runtimeconfig.dev.json
+C:\Users\cagatay\Desktop\Pratikler\array_list\bin\Debug\net5.0\array_list.dll
+C:\Users\cagatay\Desktop\Pratikler\array_list\bin\Debug\net5.0\ref\array_list.dll
+C:\Users\cagatay\Desktop\Pratikler\array_list\bin\Debug\net5.0\array_list.pdb
+C:\Users\cagatay\Desktop\Pratikler\array_list\obj\Debug\net5.0\array_list.csprojAssemblyReference.cache
+C:\Users\cagatay\Desktop\Pratikler\array_list\obj\Debug\net5.0\array_list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cagatay\Desktop\Pratikler\array_list\obj\Debug\net5.0\array_list.AssemblyInfoInputs.cache
+C:\Users\cagatay\Desktop\Pratikler\array_list\obj\Debug\net5.0\array_list.AssemblyInfo.cs
+C:\Users\cagatay\Desktop\Pratikler\array_list\obj\Debug\net5.0\array_list.csproj.CoreCompileInputs.cache
+C:\Users\cagatay\Desktop\Pratikler\array_list\obj\Debug\net5.0\array_list.dll
+C:\Users\cagatay\Desktop\Pratikler\array_list\obj\Debug\net5.0\ref\array_list.dll
+C:\Users\cagatay\Desktop\Pratikler\array_list\obj\Debug\net5.0\array_list.pdb
+C:\Users\cagatay\Desktop\Pratikler\array_list\obj\Debug\net5.0\array_list.genruntimeconfig.cache
