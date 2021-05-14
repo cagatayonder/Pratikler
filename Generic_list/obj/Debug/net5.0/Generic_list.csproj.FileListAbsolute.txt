@@ -1,0 +1,16 @@
+C:\Users\cagatay\Desktop\Pratikler\Generic_list\bin\Debug\net5.0\Generic_list.exe
+C:\Users\cagatay\Desktop\Pratikler\Generic_list\bin\Debug\net5.0\Generic_list.deps.json
+C:\Users\cagatay\Desktop\Pratikler\Generic_list\bin\Debug\net5.0\Generic_list.runtimeconfig.json
+C:\Users\cagatay\Desktop\Pratikler\Generic_list\bin\Debug\net5.0\Generic_list.runtimeconfig.dev.json
+C:\Users\cagatay\Desktop\Pratikler\Generic_list\bin\Debug\net5.0\Generic_list.dll
+C:\Users\cagatay\Desktop\Pratikler\Generic_list\bin\Debug\net5.0\ref\Generic_list.dll
+C:\Users\cagatay\Desktop\Pratikler\Generic_list\bin\Debug\net5.0\Generic_list.pdb
+C:\Users\cagatay\Desktop\Pratikler\Generic_list\obj\Debug\net5.0\Generic_list.csprojAssemblyReference.cache
+C:\Users\cagatay\Desktop\Pratikler\Generic_list\obj\Debug\net5.0\Generic_list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cagatay\Desktop\Pratikler\Generic_list\obj\Debug\net5.0\Generic_list.AssemblyInfoInputs.cache
+C:\Users\cagatay\Desktop\Pratikler\Generic_list\obj\Debug\net5.0\Generic_list.AssemblyInfo.cs
+C:\Users\cagatay\Desktop\Pratikler\Generic_list\obj\Debug\net5.0\Generic_list.csproj.CoreCompileInputs.cache
+C:\Users\cagatay\Desktop\Pratikler\Generic_list\obj\Debug\net5.0\Generic_list.dll
+C:\Users\cagatay\Desktop\Pratikler\Generic_list\obj\Debug\net5.0\ref\Generic_list.dll
+C:\Users\cagatay\Desktop\Pratikler\Generic_list\obj\Debug\net5.0\Generic_list.pdb
+C:\Users\cagatay\Desktop\Pratikler\Generic_list\obj\Debug\net5.0\Generic_list.genruntimeconfig.cache
