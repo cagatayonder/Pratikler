@@ -1,0 +1,16 @@
+C:\Users\cagatay\Desktop\Pratikler\Proje_2\bin\Debug\net5.0\Proje_2.exe
+C:\Users\cagatay\Desktop\Pratikler\Proje_2\bin\Debug\net5.0\Proje_2.deps.json
+C:\Users\cagatay\Desktop\Pratikler\Proje_2\bin\Debug\net5.0\Proje_2.runtimeconfig.json
+C:\Users\cagatay\Desktop\Pratikler\Proje_2\bin\Debug\net5.0\Proje_2.runtimeconfig.dev.json
+C:\Users\cagatay\Desktop\Pratikler\Proje_2\bin\Debug\net5.0\Proje_2.dll
+C:\Users\cagatay\Desktop\Pratikler\Proje_2\bin\Debug\net5.0\ref\Proje_2.dll
+C:\Users\cagatay\Desktop\Pratikler\Proje_2\bin\Debug\net5.0\Proje_2.pdb
+C:\Users\cagatay\Desktop\Pratikler\Proje_2\obj\Debug\net5.0\Proje_2.csprojAssemblyReference.cache
+C:\Users\cagatay\Desktop\Pratikler\Proje_2\obj\Debug\net5.0\Proje_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cagatay\Desktop\Pratikler\Proje_2\obj\Debug\net5.0\Proje_2.AssemblyInfoInputs.cache
+C:\Users\cagatay\Desktop\Pratikler\Proje_2\obj\Debug\net5.0\Proje_2.AssemblyInfo.cs
+C:\Users\cagatay\Desktop\Pratikler\Proje_2\obj\Debug\net5.0\Proje_2.csproj.CoreCompileInputs.cache
+C:\Users\cagatay\Desktop\Pratikler\Proje_2\obj\Debug\net5.0\Proje_2.dll
+C:\Users\cagatay\Desktop\Pratikler\Proje_2\obj\Debug\net5.0\ref\Proje_2.dll
+C:\Users\cagatay\Desktop\Pratikler\Proje_2\obj\Debug\net5.0\Proje_2.pdb
+C:\Users\cagatay\Desktop\Pratikler\Proje_2\obj\Debug\net5.0\Proje_2.genruntimeconfig.cache
