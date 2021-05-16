@@ -1,0 +1,16 @@
+C:\Users\cagatay\Desktop\Pratikler\Proje_1\bin\Debug\net5.0\Proje_1.exe
+C:\Users\cagatay\Desktop\Pratikler\Proje_1\bin\Debug\net5.0\Proje_1.deps.json
+C:\Users\cagatay\Desktop\Pratikler\Proje_1\bin\Debug\net5.0\Proje_1.runtimeconfig.json
+C:\Users\cagatay\Desktop\Pratikler\Proje_1\bin\Debug\net5.0\Proje_1.runtimeconfig.dev.json
+C:\Users\cagatay\Desktop\Pratikler\Proje_1\bin\Debug\net5.0\Proje_1.dll
+C:\Users\cagatay\Desktop\Pratikler\Proje_1\bin\Debug\net5.0\ref\Proje_1.dll
+C:\Users\cagatay\Desktop\Pratikler\Proje_1\bin\Debug\net5.0\Proje_1.pdb
+C:\Users\cagatay\Desktop\Pratikler\Proje_1\obj\Debug\net5.0\Proje_1.csprojAssemblyReference.cache
+C:\Users\cagatay\Desktop\Pratikler\Proje_1\obj\Debug\net5.0\Proje_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cagatay\Desktop\Pratikler\Proje_1\obj\Debug\net5.0\Proje_1.AssemblyInfoInputs.cache
+C:\Users\cagatay\Desktop\Pratikler\Proje_1\obj\Debug\net5.0\Proje_1.AssemblyInfo.cs
+C:\Users\cagatay\Desktop\Pratikler\Proje_1\obj\Debug\net5.0\Proje_1.csproj.CoreCompileInputs.cache
+C:\Users\cagatay\Desktop\Pratikler\Proje_1\obj\Debug\net5.0\Proje_1.dll
+C:\Users\cagatay\Desktop\Pratikler\Proje_1\obj\Debug\net5.0\ref\Proje_1.dll
+C:\Users\cagatay\Desktop\Pratikler\Proje_1\obj\Debug\net5.0\Proje_1.pdb
+C:\Users\cagatay\Desktop\Pratikler\Proje_1\obj\Debug\net5.0\Proje_1.genruntimeconfig.cache
